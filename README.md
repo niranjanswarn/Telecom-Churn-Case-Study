@@ -14,4 +14,4 @@ This project is based on the Indian and Southeast Asian market.
 
 Telecom Churn Case Study_Niranjan.pdf - This file contains the presentation
 
-Telecom Churn Case Study_Niranjan.jynb - This file contains the python code
+Telecom Churn Case Study_Niranjan.ipynb - This file contains the python code
